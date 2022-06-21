@@ -249,11 +249,11 @@ i{
 } */
 
 .tbox{
-  width: 100%;
+  width: 102%;
 height: 4rem;
 display: block;
 background-color: aliceblue;
-/* margin-left: -1%; */
+margin-left: -1%;
 }
 
 #triangle-topleft {
